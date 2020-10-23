@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jboss.windup.utils:windup-utils:forge-addon:4.2.0.Final">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/windup/utils/windup-utils/4.2.0.Final/windup-utils-4.2.0.Final-forge-addon.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/windup/utils/windup-utils/4.2.0.Final/windup-utils-4.2.0.Final-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/windup/utils/windup-utils/4.2.0.Final/windup-utils-4.2.0.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
