@@ -8,6 +8,7 @@ Can be executed, but use it on your own risk.
 Tools: Java, Swing, Fernflower, Apache Commons.  
 
 This is a "Bachelor's Work" on thesis "Java code obfuscation software development".  
+All Java code can be found [here!](https://github.com/AmbiWS/Java-Code-Obfuscator/tree/main/src/main/java)  
 Obfuscator affects only on source code of Java SE, instead of bytecode like Proguard.  
 There is also Swing forms obfuscation and rebinding.  
 
